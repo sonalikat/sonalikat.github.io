@@ -4252,7 +4252,7 @@ object {
   width: 80px;
   height: 45px;
   z-index: 1;
-  background: url("public/images/quote.svg") no-repeat center;
+  background: url("template_images/quote.svg") no-repeat center;
 }
 .ot-testimonials .ot-testimonials-slider-s2 .testi-item {
   padding-right: 0;
@@ -7387,40 +7387,40 @@ section {
     margin-bottom: 20px;
 }
 .icon-bg-1 {
-    background-image: url(public/images/bg-iconbox1.jpg);
+    background-image: url(template_images/bg-iconbox1.jpg);
 }
 .icon-bg-2 {
-    background-image: url(public/images/bg-iconbox2.jpg);
+    background-image: url(template_images/bg-iconbox2.jpg);
 }
 .icon-bg-3 {
-    background-image: url(public/images/bg-iconbox3.jpg);
+    background-image: url(template_images/bg-iconbox3.jpg);
 }
 .icon-bg-4 {
-    background-image: url(public/images/bg-iconbox4.jpg);
+    background-image: url(template_images/bg-iconbox4.jpg);
 }
 .icon-bg-5{
-    background-image: url(public/images/bg-iconbox5.jpg);
+    background-image: url(template_images/bg-iconbox5.jpg);
 }
 .icon-bg-6 {
-    background-image: url(public/images/bg-iconbox1.jpg);
+    background-image: url(template_images/bg-iconbox1.jpg);
 }
 .icon-bg-1:hover {
-    background-image: url(public/images/bg-iconbox1-hover.jpg);
+    background-image: url(template_images/bg-iconbox1-hover.jpg);
 }
 .icon-bg-2:hover {
-    background-image: url(public/images/bg-iconbox2-hover.jpg);
+    background-image: url(template_images/bg-iconbox2-hover.jpg);
 }
 .icon-bg-3:hover {
-    background-image: url(public/images/bg-iconbox3-hover.jpg);
+    background-image: url(template_images/bg-iconbox3-hover.jpg);
 }
 .icon-bg-4:hover {
-    background-image: url(public/images/bg-iconbox4-hover.jpg);
+    background-image: url(template_images/bg-iconbox4-hover.jpg);
 }
 .icon-bg-5:hover {
-    background-image: url(public/images/bg-iconbox5-hover.jpg);
+    background-image: url(template_images/bg-iconbox5-hover.jpg);
 }
 .icon-bg-6:hover {
-    background-image: url(public/images/bg-iconbox1-hover.jpg);
+    background-image: url(template_images/bg-iconbox1-hover.jpg);
 }
 .services-feature {
     background-color: #1A1A1A;
@@ -7520,7 +7520,7 @@ section {
     display: inherit;
 }
 .about-team {
-    background-image: url(public/images/bg2-home1.jpg);
+    background-image: url(template_images/bg2-home1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7566,7 +7566,7 @@ section {
     filter: brightness(100%) contrast(100%) saturate(100%) blur(0) hue-rotate(0deg);
 }
 .section-team-list {
-    background-image: url(public/images/bg1-team.jpg);
+    background-image: url(template_images/bg1-team.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7768,7 +7768,7 @@ section {
     border-color: #DDD;
 }
 .progress-studio {
-    background-image: url(public/images/bg2-studio.jpg);
+    background-image: url(template_images/bg2-studio.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7977,7 +7977,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background: #F5592F;
 }
 .cta {
-    background-image: url(public/images/bg1-home1.jpg);
+    background-image: url(template_images/bg1-home1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0 73px 0;
@@ -8399,7 +8399,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     color: #9F9E9E;
 }
 .story-1 {
-    background-image: url(public/images/bg1-home1.jpg);
+    background-image: url(template_images/bg1-home1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8417,7 +8417,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .story-author {
     padding: 0 0 0 20px;
-    background-image: url(public/images/bg1-home1.jpg);
+    background-image: url(template_images/bg1-home1.jpg);
     background-position: 87% 92%;
     background-repeat: no-repeat;
 }
@@ -8560,7 +8560,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     color: #A3A3A3;
 }
 .our-portfolio-1 {
-    background-image: url(public/images/bg1-home2.jpg);
+    background-image: url(template_images/bg1-home2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 105px;
@@ -8589,7 +8589,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background-repeat: no-repeat;
 }
 .cta-2 {
-    background-image: url(public/images/bg2-home2.jpg);
+    background-image: url(template_images/bg2-home2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8666,19 +8666,19 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     border-color: rgba(0,0,0,.1);
 }
 .banner-3 {
-    background-image: url(public/images/bg-slider-home3.png);
+    background-image: url(template_images/bg-slider-home3.png);
     background-position: 100% 0;
     background-repeat: no-repeat;
     padding: 90px 0 120px 0;
 }
 .our-skill-3 {
-    background-image: url(public/images/bg1-home3.png);
+    background-image: url(template_images/bg1-home3.png);
     background-position: center left;
     background-repeat: no-repeat;
 }
 .testi-slide-block-3 {
     padding: 60px;
-    background-image: url(PUBLIC/images/bg2-home3.jpg);
+    background-image: url(template_images/bg2-home3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8709,7 +8709,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     padding-bottom: 50px;
 }
 .skill-4, .testi-4 {
-    background-image: url(public/images/bg2-aboutus.jpg);
+    background-image: url(template_images/bg2-aboutus.jpg);
     background-position: center center;
 }
 .skill-content-4 {
@@ -8726,7 +8726,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     margin: 0 auto;
 }
 .banner-4 {
-    background-image: url(public/images/banner-home4.jpg);
+    background-image: url(template_images/banner-home4.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8777,7 +8777,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     animation: MoveUpRight 1.5s linear infinite;
 }
 .feature-4 {
-    background-image: url(public/images/bg1-home4.jpg);
+    background-image: url(template_images/bg1-home4.jpg);
     background-repeat: no-repeat;
     margin-top: -160px;
     padding: 40px 0 39px 0;
@@ -8918,18 +8918,18 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .client-area-5 {
     padding: 70px 80px 70px 80px;
-    background-image: url(public/images/bg2-aboutus.jpg);
+    background-image: url(template_images/bg2-aboutus.jpg);
     background-position: center center;
 }
 .process-area-5 {
-    background-image: url(public/images/bg2-home5.jpg);
+    background-image: url(template_images/bg2-home5.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 120px 0 80px 0;
 }
 .counter-area-5 {
-    background-image: url(public/images/bg2-aboutus.jpg);
+    background-image: url(template_images/bg2-aboutus.jpg);
     background-position: center center;
     padding: 66px 0 57px 0;
 }
