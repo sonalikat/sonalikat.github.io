@@ -5136,7 +5136,7 @@ object {
   transform: translateX(-50%);
 }
 .ot-pricing-table .inner-table h2 {
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 300;
   line-height: 1;
   position: relative;
@@ -5245,7 +5245,7 @@ object {
     padding: 70px 45px 47px;
   }
   .ot-pricing-table .inner-table h2 {
-    font-size: 40px;
+    font-size: 32px;
   }
 }
 @media (max-width: 1024px) {
