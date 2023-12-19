@@ -8584,7 +8584,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 .about-content-2 .ot-heading {
     margin: 0 -22px 0 0;
     padding: 75px 10px 22px 0;
-    background-image: url(https://via.placeholder.com/156x142.png);
+    /* background-image: url(https://via.placeholder.com/156x142.png); */
     background-position: 100% 12%;
     background-repeat: no-repeat;
 }
