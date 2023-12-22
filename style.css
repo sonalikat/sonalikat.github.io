@@ -7236,7 +7236,7 @@ section {
   background-image: url('https://via.placeholder.com/1920x500.png');
 }
 .page-header-contact {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+  background-image: url('images/pheader-contact.jpg');
 }
 .pheader-service-detail1 {
   background-image: url('https://via.placeholder.com/1920x500.png');
@@ -7291,7 +7291,7 @@ section {
 .contact-right {
     padding-left: 75px;
     padding-right: 40px;
-    background-image: url('https://via.placeholder.com/510x680.png');
+    background-image: url('images/bg1-contact.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
