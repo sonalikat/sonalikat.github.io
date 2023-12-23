@@ -10327,3 +10327,20 @@ ul.style-default li:last-child, ol.style-default li:last-child {
   margin-right: auto;
   margin-top: 30px;
 }
+
+/* CUSTOM */
+
+.scroll-down-gif {
+  position: fixed;
+  left: calc(50% - 20px);
+  bottom: 0;
+}
+.scroll-down-gif::after {
+  font-size: 40px;
+}
+
+@media (max-width: 381px) {
+  .story-author img {
+    margin-right: 0px;
+  }
+}
